@@ -14,8 +14,9 @@ React & Tailwind Template with JSON-Server Welcome to the React and Tailwind Tem
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate into the project directory with `cd my-project`.
 3. Install the required dependencies using `npm install`.
-4. Start the development server and JSON-Server with `npm start`.
+4. Start the development server and JSON-Server with `npm run start`.
 5. use `npm run dev` to run both react-script and json-server.
+6. to init tailwind use `npx tailwindcss init`
 
 **Ready to Code:**
 This template provides a solid foundation for building web applications. Customize the components, styles, and data to suit your project requirements. With React and Tailwind at your fingertips, you can create stunning and responsive UIs effortlessly.
