@@ -2,7 +2,7 @@
 
  React & Tailwind Template with JSON-Server
 
-React & Tailwind Template with JSON-Server Welcome to the React and Tailwind Template repository! Your web development projects may easily get off the ground with the help of this ready-to-use template. For a seamless development experience, it is pre-configured with React, Tailwind CSS, JSON-Server, and Concurrently.
+Welcome to the React and Tailwind Template repository! Your web development projects may easily get off the ground with the help of this ready-to-use template. For a seamless development experience, it is pre-configured with React, Tailwind CSS, JSON-Server, and Concurrently.
 
 **Features:**
 - **React**: A powerful and popular JavaScript library for building user interfaces.
